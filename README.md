@@ -3,7 +3,7 @@
 Bienvenido/a a mi primer proyecto en la materia Tecnologías de la Información.
 
 
-##Presentación
+## Presentación
 - **Estudiante:** Vera Recalt
 - **Curso:** 4to 4Ta
 - **Escuela:** Agustín Tosco
